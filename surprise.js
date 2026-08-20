@@ -1,0 +1,1 @@
+const rain=document.querySelector(".blossom-rain");for(let i=0;i<48;i++){const petal=document.createElement("span");petal.textContent=Math.random()>.5?"❀":"✿";petal.style.left=`${Math.random()*100}%`;petal.style.animationDuration=`${9+Math.random()*10}s`;petal.style.animationDelay=`-${Math.random()*16}s`;petal.style.fontSize=`${16+Math.random()*15}px`;rain.appendChild(petal)}

@@ -1,0 +1,10 @@
+Put four photos in this folder and name them exactly:
+photo-1.jpg
+photo-2.jpg
+photo-3.jpg
+photo-4.jpg
+
+For the large music-player photo, also add:
+our-photo.jpg
+
+You can also use PNG files, but then update .jpg to .png in index.html.
